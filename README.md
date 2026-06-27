@@ -26,7 +26,7 @@ An AI pipeline that classifies customer complaints, extracts structured ticket d
    
 5. Displays entity summary cards with counts
 
-
+---
 
 ## Screenshots
 
@@ -36,6 +36,7 @@ An AI pipeline that classifies customer complaints, extracts structured ticket d
 ![Submission Form](images/screenshot3.png)
 ![Submission Form](images/screenshot4.png)
 
+---
 ## Tech Stack
 
 - Python 3.10
@@ -46,6 +47,7 @@ An AI pipeline that classifies customer complaints, extracts structured ticket d
 - Gradio — web interface
 - seqeval — NER evaluation metrics
 
+---
 ## Architecture
 
 ```
@@ -65,11 +67,14 @@ amharic-ner/
     └── ner_config.json
 ```
 
+---
+
 ## Evaluation
 
 ```
 (AfroXLM-R-base): 0.76 
 ```
+---
 
 ## Running Locally
 
