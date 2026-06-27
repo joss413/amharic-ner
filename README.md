@@ -2,6 +2,13 @@
 
 An AI pipeline that classifies customer complaints, extracts structured ticket data, generates empathetic responses, and logs everything to a searchable dashboard.
 
+---
+
+## 🚀 Live Demo
+
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/Jossi18/amharic-ner)
+
+---
 ## What It Does
 
 1. Accepts any Amharic sentence as input
@@ -18,6 +25,8 @@ An AI pipeline that classifies customer complaints, extracts structured ticket d
    🟡 DATE — Dates (ቀን)
    
 5. Displays entity summary cards with counts
+
+
 
 ## Screenshots
 
