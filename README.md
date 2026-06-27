@@ -34,7 +34,7 @@ An AI pipeline that classifies customer complaints, extracts structured ticket d
 |:---:|:---:|
 | <img src="images/screenshot1.png" width="380"/> | <img src="images/screenshot2.png" width="380"/> |
 | *App Interface* | *Person & Location Detection* |
-| <img src="images/screenshot3.png" width="380"/> | <img src="images/screenshot4.png" width="380"/> |
+| <img src="images/screenshot5.png" width="380"/> | <img src="images/screenshot6.png" width="380"/> |
 | *Organization & Date Detection* | *Entity Summary Cards* |
 ---
 ## Tech Stack
